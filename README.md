@@ -1,6 +1,6 @@
 # 🚀 Zarf Robotics Project
 
-Official repository for projects from Zarf Robotics Project 🚀🤖⚡ featuring robotics, automation, smart technology, DIY inventions, futuristic engineering, creative builds, and innovative experiments 🛠️💡📡🔥.
+Official repository for projects from Zarf Robotics Channel🚀🤖⚡ featuring robotics, automation, smart technology, DIY inventions, futuristic engineering, creative builds, and innovative experiments 🛠️💡📡🔥.
 
 ---
 
